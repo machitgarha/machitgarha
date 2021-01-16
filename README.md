@@ -18,6 +18,10 @@ Last but not least, I'm proudly an Iranian and a Muslim. After all, the life is 
 
 -   **People:** Linus Torvalds, Dennis Ritchie and Richard Stallman. Thank you all.
 
+### Other tools
+
+-   Git
+
 ## Things I Avoid
 
 -   **Windows (10):** I don't want to say aloud to Microsoft what is being done on my system. Yes, privacy matters. Updating is a mess there. PowerShell or even WSL2 is not comparable to Bash. Sometimes even I prefer Gnome UX against Windows's. And let's face the facts: I've addicted to my system, and there is little thing I cannot do here (if any).
@@ -26,9 +30,11 @@ Last but not least, I'm proudly an Iranian and a Muslim. After all, the life is 
 
 -   **Ubuntu:** Not that unusable, but it is unstable. A clever guy should discover why almost every Ubuntu-based distribution is great, but not Ubuntu itself. I really hope it be a stable and performant distribution.
 
-## Find me
+## Find Me
 
 You should find me just anywhere with the help of \@machitgarha identifier.
 
 -   [Linkedin](https://linkedin.com/in/machitgarha)
 -   [Twitter](https://twitter.com/machitgarha)
+-   [Gap](https://gap.im/machitgarha)
+-   [Telegram](https://t.me/machitgarha)
