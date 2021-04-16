@@ -1,6 +1,6 @@
 A back-end developer. Not enough. An open source developer, also, or at least trying to be. Yes, the title may shout at you that I want my bucket being empty. No, it is lying. Look at [Red Hat](https://www.redhat.com/) and [Nextcloud](https://github.com/nextcloud/). Even without them, there is a huge hidden opportunity in open source.
 
-I do care a lot about performance. Resources are important. Oh, let me clarify, micro-optimizations are mostly evils. For instance, it's really sad that such a great language as Python has such a super-slow interpreter. Yes, PyPy is a thing, but can you use it system-wide?
+I do care a lot about performance. Resources are important. For instance, it's really sad that such a great language as Python has such a super-slow interpreter. Yes, PyPy is a thing, but can you use it system-wide?
 
 Never ever forget privacy. Our data is important a lot. If you think it is just non-sense, so please read the quotes in [privacytools.io](https://privacytools.io/), especially the first one. This is one of the reasons why I'm on GNU/Linux.
 
