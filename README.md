@@ -1,5 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=machitgarha)](https://github.com/ryo-ma/github-profile-trophy)
-
 A developer trying to shift his focus to open-source. The title may shout at you: "I want my bucket being empty". No, it is lying. Look at [Red Hat](https://www.redhat.com/) and [Nextcloud](https://github.com/nextcloud/). Even without them, there is a huge hidden opportunity in open source.
 
 In my ideal world, all of science and all technologies are open. By keeping things closed, most likely it is you (being a person or a group) that matter the most. In an open environment, however, you think further: Advancing the world as a whole is much more important.
@@ -8,57 +6,34 @@ Privacy is another benefit you get by using free software. It really matters, tr
 
 Last but not least, I'm proudly an Iranian and a Muslim.
 
-## Skills
+## Favorites (Technological)
 
-<div style="display: flex; flex-direction: row;">
-    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/php.svg" alt="PHP"/></div>
-    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" alt="Git"/></div>
-    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linux-tux.svg" alt="Linux"/></div>
-    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash-icon.svg" alt="Bash"/></div>
-    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++"/></div>
-    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="Python"/></div>
-    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML5"/></div>
-    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS3"/></div>
-    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript"/></div>
-    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="C"/></div>
-    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/fedora.svg" alt="Fedora"/></div>
-</div>
+-   **Programming Languages:** PHP. I love it. C++ also.
 
-## Favorites and Daily Tools
+-   **Operating System:** Fedora Workstation (GNU/Linux). Super stable.
 
-### Technological
+-   **Desktop Environment:** Gnome (Wayland). KDE is also looking good.
 
-Git and GNU/Linux (specifically its terminal) are the tools I cannot live without. Thanks, Linus Torvalds.
+-   **Licenses:** GNU licenses are just great for FOSS community. Apache License 2.0 is also a good choice.
 
-Always following news in the PHP world (mostly from [this subreddit](https://reddit.com/r/php)). Whenever I want to write something new, I prefer to use PHP for that, especially if it's a console application. However, sometimes the libraries in Python are making the life easier, so I use Python for those cases.
+-   **People:** Linus Torvalds, Dennis Ritchie and Richard Stallman. Thank you all.
 
-The Linux distro I use is Fedora Workstation. Enjoying the bleeding-edge while having an stable system: I've never felt I need to reinstall it or switch to another distro (since more than two years ago).
+### Other tools
 
-I love all the *GPL licenses, and use them as much as possible.
-
-Other things I like: C++, OOP with traits and interfaces.
-
-### Other Stuff
-
-I love Islamic philosophy (thanks to the books of Morteza Motahhari and Allameh Tabatabaei).
+-   Git
 
 ## Things I Refuse to Work With
 
--   **Windows:** I don't want to say aloud to Microsoft what is being done on my system. Yes, privacy matters. Updating is a mess there. PowerShell or even WSL2 is not comparable to Bash. Sometimes even I prefer Gnome UX against Windows's. And let's face the facts: I've addicted to my system, and there is little thing I cannot do here (if any).
+-   **Windows (10):** I don't want to say aloud to Microsoft what is being done on my system. Yes, privacy matters. Updating is a mess there. PowerShell or even WSL2 is not comparable to Bash. Sometimes even I prefer Gnome UX against Windows's. And let's face the facts: I've addicted to my system, and there is little thing I cannot do here (if any).
 
--   **Ubuntu:** Not that unusable, but it was really unstable in my experience. I had problems with AppArmor that the system didn't even boot, for example.
-
--   **NVIDIA:** Not a new trend among Linux users. If you're not aware, just search the web.
+-   **Ubuntu:** Not that unusable, but it is unstable. A clever guy should discover why almost every Ubuntu-based distribution is great, but not Ubuntu itself. I really hope it be a stable and performant distribution.
 
 ## Find Me
 
 You should find me just anywhere with the help of \@machitgarha identifier.
 
-[![](https://github-readme-stackoverflow.vercel.app/?userID=4215651&layout=compact)](https://stackoverflow.com/users/4215651/machitgarha)
-
-<div style="display: flex; flex-direction: row;">
-    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><a style="display: block;" href="https://linkedn.com/in/machitgarha"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linkedin-icon.svg" alt="LinkedIn"/></a></div>
-    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><a style="display: block;" href="https://twitter.com/machitgarha"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/twitter.svg" alt="Twitter"/></a></div>
-    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><a style="display: block;" href="https://t.me/machitgarha"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/telegram.svg" alt="LinkedIn"/></a></div>
-    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><a style="display: block;" href="https://gap.im/machitgarha"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://gap.im/img/gap-splash.png" alt="LinkedIn"/></a></div>
-</div>
+-   [StackOverflow](https://stackoverflow.com/users/4215651/machitgarha)
+-   [Linkedin](https://linkedn.com/in/machitgarha)
+-   [Twitter](https://twitter.com/machitgarha)
+-   [Gap](https://gap.im/machitgarha)
+-   [Telegram](https://t.me/machitgarha)
