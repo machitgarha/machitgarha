@@ -10,25 +10,23 @@ Last but not least, I'm proudly an Iranian and a Muslim.
 
 ## Skills
 
-<div style="display: flex; flex-direction: row;">
-    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/php.svg" alt="PHP"/></div>
-    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" alt="Git"/></div>
-    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linux-tux.svg" alt="Linux"/></div>
-    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash-icon.svg" alt="Bash"/></div>
-    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++"/></div>
-    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="Python"/></div>
-    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML5"/></div>
-    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS3"/></div>
-    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript"/></div>
-    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="C"/></div>
-    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/fedora.svg" alt="Fedora"/></div>
-</div>
+[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/php.svg" alt="PHP" width="40"/>]()
+[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" alt="Git" width="40"/>]()
+[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linux-tux.svg" alt="Linux" width="40"/>]()
+[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash-icon.svg" alt="Bash" width="40"/>]()
+[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++" width="40"/>]()
+[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="Python" width="40"/>]()
+[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML5" width="40"/>]()
+[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS3" width="40"/>]()
+[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript" width="40"/>]()
+[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="C" width="40"/>]()
+[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/fedora.svg" alt="Fedora" width="40"/>]()
 
 ## Favorites and Daily Tools
 
 ### Technological
 
-Git and GNU/Linux (specifically its terminal) are the tools I cannot live without. Thanks, Linus Torvalds.
+Git and GNU/Linux (specifically its terminal) are the tools I cannot live without. Thanks, Linus Torvalds. 🤓
 
 Always following news in the PHP world (mostly from [this subreddit](https://reddit.com/r/php)). Whenever I want to write something new, I prefer to use PHP for that, especially if it's a console application. However, sometimes the libraries in Python are making the life easier, so I use Python for those cases.
 
@@ -56,9 +54,7 @@ You should find me just anywhere with the help of \@machitgarha identifier.
 
 [![](https://github-readme-stackoverflow.vercel.app/?userID=4215651&layout=compact)](https://stackoverflow.com/users/4215651/machitgarha)
 
-<div style="display: flex; flex-direction: row;">
-    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><a style="display: block;" href="https://linkedn.com/in/machitgarha"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linkedin-icon.svg" alt="LinkedIn"/></a></div>
-    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><a style="display: block;" href="https://twitter.com/machitgarha"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/twitter.svg" alt="Twitter"/></a></div>
-    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><a style="display: block;" href="https://t.me/machitgarha"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/telegram.svg" alt="LinkedIn"/></a></div>
-    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><a style="display: block;" href="https://gap.im/machitgarha"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://gap.im/img/gap-splash.png" alt="LinkedIn"/></a></div>
-</div>
+[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linkedin-icon.svg" alt="LinkedIn" height="30"/>](https://linkedn.com/in/machitgarha)
+[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/twitter.svg" alt="Twitter" height="30"/>](https://twitter.com/machitgarha)
+[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/telegram.svg" alt="LinkedIn" height="30"/>](https://t.me/machitgarha)
+[<img src="https://gap.im/img/gap-splash.png" alt="LinkedIn" height="30"/>](https://gap.im/machitgarha)
