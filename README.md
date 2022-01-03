@@ -6,6 +6,21 @@ Privacy is another benefit you get by using free software. It really matters, tr
 
 Last but not least, I'm proudly an Iranian and a Muslim.
 
+## Skills
+
+<div class="skills">
+    <div class="skill"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/php.svg" alt="PHP"/></div>
+    <div class="skill"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" alt="Git"/></div>
+    <div class="skill"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linux-tux.svg" alt="Linux"/></div>
+    <div class="skill"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash-icon.svg" alt="Bash"/></div>
+    <div class="skill"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++"/></div>
+    <div class="skill"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML5"/></div>
+    <div class="skill"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS3"/></div>
+    <div class="skill"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript"/></div>
+    <div class="skill"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="C"/></div>
+    <div class="skill"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/fedora.svg" alt="Fedora"/></div>
+</div>
+
 ## Favorites (Technological)
 
 -   **Programming Languages:** PHP. I love it. C++ also.
@@ -17,7 +32,7 @@ Last but not least, I'm proudly an Iranian and a Muslim.
 -   **Licenses:** GNU licenses are just great for FOSS community. Apache License 2.0 is also a good choice.
 
 -   **People:** Linus Torvalds, Dennis Ritchie and Richard Stallman. Thank you all.
-
+sec
 ### Other tools
 
 -   Git
@@ -37,3 +52,25 @@ You should find me just anywhere with the help of \@machitgarha identifier.
 -   [Twitter](https://twitter.com/machitgarha)
 -   [Gap](https://gap.im/machitgarha)
 -   [Telegram](https://t.me/machitgarha)
+
+<!--
+Styles:
+-->
+
+<style>
+div.skills {
+    display: flex;
+    flex-direction: row;
+}
+div.skill {
+    display: flex;
+    width: 50px;
+    height: 60px;
+    padding: 5px;
+}
+div.skill img {
+    margin: auto;
+    max-width: 100%;
+    max-height: 100%;
+}
+</style>
