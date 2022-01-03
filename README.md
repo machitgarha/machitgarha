@@ -8,18 +8,18 @@ Last but not least, I'm proudly an Iranian and a Muslim.
 
 ## Skills
 
-<div class="skills">
-    <div class="skill"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/php.svg" alt="PHP"/></div>
-    <div class="skill"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" alt="Git"/></div>
-    <div class="skill"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linux-tux.svg" alt="Linux"/></div>
-    <div class="skill"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash-icon.svg" alt="Bash"/></div>
-    <div class="skill"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++"/></div>
-    <div class="skill"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="Python"/></div>
-    <div class="skill"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML5"/></div>
-    <div class="skill"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS3"/></div>
-    <div class="skill"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript"/></div>
-    <div class="skill"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="C"/></div>
-    <div class="skill"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/fedora.svg" alt="Fedora"/></div>
+<div class="icon-list">
+    <div><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/php.svg" alt="PHP"/></div>
+    <div><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" alt="Git"/></div>
+    <div><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linux-tux.svg" alt="Linux"/></div>
+    <div><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash-icon.svg" alt="Bash"/></div>
+    <div><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++"/></div>
+    <div><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="Python"/></div>
+    <div><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML5"/></div>
+    <div><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS3"/></div>
+    <div><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript"/></div>
+    <div><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="C"/></div>
+    <div><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/fedora.svg" alt="Fedora"/></div>
 </div>
 
 ## Favorites and Daily Tools
@@ -52,28 +52,34 @@ I love Islamic philosophy (thanks to the books of Morteza Motahhari and Allameh 
 
 You should find me just anywhere with the help of \@machitgarha identifier.
 
--   [StackOverflow](https://stackoverflow.com/users/4215651/machitgarha)
--   [Linkedin](https://linkedn.com/in/machitgarha)
--   [Twitter](https://twitter.com/machitgarha)
--   [Gap](https://gap.im/machitgarha)
--   [Telegram](https://t.me/machitgarha)
+[![](https://github-readme-stackoverflow.vercel.app/?userID=4215651&layout=compact)](https://stackoverflow.com/users/4215651/machitgarha)
+
+<div class="icon-list">
+    <div><a href="https://linkedn.com/in/machitgarha"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linkedin-icon.svg" alt="LinkedIn"/></a></div>
+    <div><a href="https://twitter.com/machitgarha"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/twitter.svg" alt="Twitter"/></a></div>
+    <div><a href="https://t.me/machitgarha"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/telegram.svg" alt="LinkedIn"/></a></div>
+    <div><a href="https://gap.im/machitgarha"><img src="https://gap.im/img/gap-splash.png" alt="LinkedIn"/></a></div>
+</div>
 
 <!--
 Styles:
 -->
 
 <style>
-div.skills {
+div.icon-list {
     display: flex;
     flex-direction: row;
 }
-div.skill {
+div.icon-list > div {
     display: flex;
     width: 50px;
     height: 60px;
-    padding: 5px;
+    padding: 6px;
 }
-div.skill img {
+div.icon-list > div a {
+    display: block;
+}
+div.icon-list > div img {
     margin: auto;
     max-width: 100%;
     max-height: 100%;
