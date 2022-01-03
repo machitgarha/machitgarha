@@ -58,3 +58,4 @@ You should find me just anywhere with the help of \@machitgarha identifier.
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/twitter.svg" alt="Twitter" width="30" align="center"/>](https://twitter.com/machitgarha)
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/telegram.svg" alt="LinkedIn" width="30" align="center"/>](https://t.me/machitgarha)
 [<img src="https://gap.im/img/gap-splash.png" alt="LinkedIn" width="30" align="center"/>](https://gap.im/machitgarha)
+[<img src="https://www.androidtime.com/wp-content/uploads/2019/05/Aparat-icon.png" alt="LinkedIn" width="30" align="center"/>](https://www.aparat.com/machitgarha)
