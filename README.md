@@ -10,17 +10,17 @@ Last but not least, I'm proudly an Iranian and a Muslim.
 
 ## Skills
 
-[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/php.svg" alt="PHP" width="40" align="center"/>]()
-[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" alt="Git" width="40" align="center"/>]()
-[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linux-tux.svg" alt="Linux" width="40" align="center"/>]()
-[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash-icon.svg" alt="Bash" width="40" align="center"/>]()
-[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++" width="40" align="center"/>]()
-[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="Python" width="40" align="center"/>]()
-[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML5" width="40" align="center"/>]()
-[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS3" width="40" align="center"/>]()
-[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript" width="40" align="center"/>]()
-[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="C" width="40" align="center"/>]()
-[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/fedora.svg" alt="Fedora" width="40" align="center"/>]()
+[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/php.svg" alt="PHP" width="40" align="center"/>](#)
+[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" alt="Git" width="40" align="center"/>](#)
+[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linux-tux.svg" alt="Linux" width="40" align="center"/>](#)
+[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash-icon.svg" alt="Bash" width="40" align="center"/>](#)
+[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++" width="40" align="center"/>](#)
+[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="Python" width="40" align="center"/>](#)
+[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML5" width="40" align="center"/>](#)
+[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS3" width="40" align="center"/>](#)
+[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript" width="40" align="center"/>](#)
+[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="C" width="40" align="center"/>](#)
+[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/fedora.svg" alt="Fedora" width="40" align="center"/>](#)
 
 ## Favorites and Daily Tools
 
