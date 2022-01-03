@@ -10,18 +10,18 @@ Last but not least, I'm proudly an Iranian and a Muslim.
 
 ## Skills
 
-<div class="icon-list">
-    <div><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/php.svg" alt="PHP"/></div>
-    <div><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" alt="Git"/></div>
-    <div><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linux-tux.svg" alt="Linux"/></div>
-    <div><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash-icon.svg" alt="Bash"/></div>
-    <div><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++"/></div>
-    <div><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="Python"/></div>
-    <div><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML5"/></div>
-    <div><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS3"/></div>
-    <div><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript"/></div>
-    <div><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="C"/></div>
-    <div><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/fedora.svg" alt="Fedora"/></div>
+<div style="display: flex; flex-direction: row;">
+    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/php.svg" alt="PHP"/></div>
+    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" alt="Git"/></div>
+    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linux-tux.svg" alt="Linux"/></div>
+    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash-icon.svg" alt="Bash"/></div>
+    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++"/></div>
+    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="Python"/></div>
+    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML5"/></div>
+    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS3"/></div>
+    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript"/></div>
+    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="C"/></div>
+    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/fedora.svg" alt="Fedora"/></div>
 </div>
 
 ## Favorites and Daily Tools
@@ -56,34 +56,9 @@ You should find me just anywhere with the help of \@machitgarha identifier.
 
 [![](https://github-readme-stackoverflow.vercel.app/?userID=4215651&layout=compact)](https://stackoverflow.com/users/4215651/machitgarha)
 
-<div class="icon-list">
-    <div><a href="https://linkedn.com/in/machitgarha"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linkedin-icon.svg" alt="LinkedIn"/></a></div>
-    <div><a href="https://twitter.com/machitgarha"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/twitter.svg" alt="Twitter"/></a></div>
-    <div><a href="https://t.me/machitgarha"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/telegram.svg" alt="LinkedIn"/></a></div>
-    <div><a href="https://gap.im/machitgarha"><img src="https://gap.im/img/gap-splash.png" alt="LinkedIn"/></a></div>
+<div style="display: flex; flex-direction: row;">
+    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><a style="display: block;" href="https://linkedn.com/in/machitgarha"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linkedin-icon.svg" alt="LinkedIn"/></a></div>
+    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><a style="display: block;" href="https://twitter.com/machitgarha"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/twitter.svg" alt="Twitter"/></a></div>
+    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><a style="display: block;" href="https://t.me/machitgarha"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/telegram.svg" alt="LinkedIn"/></a></div>
+    <div style="display: flex; width: 50px; height: 60px; padding: 6px;"><a style="display: block;" href="https://gap.im/machitgarha"><img style="margin: auto; max-width: 100%; max-height: 100%;" src="https://gap.im/img/gap-splash.png" alt="LinkedIn"/></a></div>
 </div>
-
-<!--
-Styles:
--->
-
-<style>
-div.icon-list {
-    display: flex;
-    flex-direction: row;
-}
-div.icon-list > div {
-    display: flex;
-    width: 50px;
-    height: 60px;
-    padding: 6px;
-}
-div.icon-list > div a {
-    display: block;
-}
-div.icon-list > div img {
-    margin: auto;
-    max-width: 100%;
-    max-height: 100%;
-}
-</style>
