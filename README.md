@@ -1,10 +1,10 @@
-A back-end developer. Not enough. An open source developer, also, or at least trying to be. Yes, the title may shout at you that I want my bucket being empty. No, it is lying. Look at [Red Hat](https://www.redhat.com/) and [Nextcloud](https://github.com/nextcloud/). Even without them, there is a huge hidden opportunity in open source.
+A developer trying to shift his focus to open-source. The title may shout at you: "I want my bucket being empty". No, it is lying. Look at [Red Hat](https://www.redhat.com/) and [Nextcloud](https://github.com/nextcloud/). Even without them, there is a huge hidden opportunity in open source.
 
-I do care a lot about performance. Resources are important. For instance, it's really sad that such a great language as Python has such a super-slow interpreter. Yes, PyPy is a thing, but can you use it system-wide?
+In my ideal world, all of science and all technologies are open. By keeping things closed, most likely it is you (being a person or a group) that matter the most. In an open environment, however, you think further: Advancing the world as a whole is much more important.
 
-Never ever forget privacy. Our data is important a lot. If you think it is just non-sense, so please read the quotes in [privacytools.io](https://privacytools.io/), especially the first one. This is one of the reasons why I'm on GNU/Linux.
+Privacy is another benefit you get by using free software. It really matters, trust me. If you think it is just non-sense, go on and read [this Reddit post](https://www.reddit.com/r/linux/comments/jm16vx/why_is_securityprivacy_important_to_you/). This is one of the reasons why I'm on GNU/Linux, particularly Fedora.
 
-Last but not least, I'm proudly an Iranian and a Muslim. After all, the life is not just programming, and we should not only be in the code-eat-sleep-repeat cycle.
+Last but not least, I'm proudly an Iranian and a Muslim.
 
 ## Favorites (Technological)
 
@@ -22,11 +22,9 @@ Last but not least, I'm proudly an Iranian and a Muslim. After all, the life is 
 
 -   Git
 
-## Things I Avoid
+## Things I Refuse to Work With
 
 -   **Windows (10):** I don't want to say aloud to Microsoft what is being done on my system. Yes, privacy matters. Updating is a mess there. PowerShell or even WSL2 is not comparable to Bash. Sometimes even I prefer Gnome UX against Windows's. And let's face the facts: I've addicted to my system, and there is little thing I cannot do here (if any).
-
--   **CPython Interpreter:** A performance and CPU killer. My personal experience tells me that, without looking at benchmarks. For instance, for the first run, I have to wait for DNF to respond a single output for a while (now look at C++-written APT).
 
 -   **Ubuntu:** Not that unusable, but it is unstable. A clever guy should discover why almost every Ubuntu-based distribution is great, but not Ubuntu itself. I really hope it be a stable and performant distribution.
 
