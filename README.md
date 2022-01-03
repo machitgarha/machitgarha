@@ -14,6 +14,7 @@ Last but not least, I'm proudly an Iranian and a Muslim.
     <div class="skill"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linux-tux.svg" alt="Linux"/></div>
     <div class="skill"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash-icon.svg" alt="Bash"/></div>
     <div class="skill"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++"/></div>
+    <div class="skill"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="Python"/></div>
     <div class="skill"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML5"/></div>
     <div class="skill"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS3"/></div>
     <div class="skill"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript"/></div>
@@ -21,27 +22,29 @@ Last but not least, I'm proudly an Iranian and a Muslim.
     <div class="skill"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/fedora.svg" alt="Fedora"/></div>
 </div>
 
-## Favorites (Technological)
+## Favorites and Daily Tools
 
--   **Programming Languages:** PHP. I love it. C++ also.
+### Technological
 
--   **Operating System:** Fedora Workstation (GNU/Linux). Super stable.
+Git and GNU/Linux (specifically its terminal) are the tools I cannot live without. Thanks, Linus Torvalds.
 
--   **Desktop Environment:** Gnome (Wayland). KDE is also looking good.
+Always following news in the PHP world (mostly from [this subreddit](https://reddit.com/r/php)). Whenever I want to write something new, I prefer to use PHP for that, especially if it's a console application. However, sometimes the libraries in Python are making the life easier, so I use Python for those cases.
 
--   **Licenses:** GNU licenses are just great for FOSS community. Apache License 2.0 is also a good choice.
+The Linux distro I use is Fedora Workstation. Enjoying the bleeding-edge while having an stable system: I've never felt I need to reinstall it or switch to another distro (since more than two years ago).
 
--   **People:** Linus Torvalds, Dennis Ritchie and Richard Stallman. Thank you all.
-sec
-### Other tools
+I love all the *GPL licenses, and use them as much as possible.
 
--   Git
+Other things I like: C++, OOP with traits and interfaces.
+
+### Other Stuff
+
+I love Islamic philosophy (thanks to the books of Morteza Motahhari and Allameh Tabatabaei).
 
 ## Things I Refuse to Work With
 
 -   **Windows (10):** I don't want to say aloud to Microsoft what is being done on my system. Yes, privacy matters. Updating is a mess there. PowerShell or even WSL2 is not comparable to Bash. Sometimes even I prefer Gnome UX against Windows's. And let's face the facts: I've addicted to my system, and there is little thing I cannot do here (if any).
 
--   **Ubuntu:** Not that unusable, but it is unstable. A clever guy should discover why almost every Ubuntu-based distribution is great, but not Ubuntu itself. I really hope it be a stable and performant distribution.
+-   **Ubuntu:** Not that unusable, but it was really unstable in my experience. I had problems with AppArmor that the system didn't even boot, for example.
 
 ## Find Me
 
