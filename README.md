@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=machitgarha)](https://github.com/ryo-ma/github-profile-trophy)
+
 A developer trying to shift his focus to open-source. The title may shout at you: "I want my bucket being empty". No, it is lying. Look at [Red Hat](https://www.redhat.com/) and [Nextcloud](https://github.com/nextcloud/). Even without them, there is a huge hidden opportunity in open source.
 
 In my ideal world, all of science and all technologies are open. By keeping things closed, most likely it is you (being a person or a group) that matter the most. In an open environment, however, you think further: Advancing the world as a whole is much more important.
