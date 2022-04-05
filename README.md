@@ -1,10 +1,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=machitgarha)](https://github.com/ryo-ma/github-profile-trophy)
 
-A developer trying to shift his focus to open-source. The title may shout at you: "I want my bucket being empty". No, it is lying. Look at [Red Hat](https://www.redhat.com/) and [Nextcloud](https://github.com/nextcloud/). Even without them, there is a huge hidden opportunity in open source.
+A developer trying to shift his focus to open-source. The title may shout at you: "I want my bucket to be empty". No, it is lying. Look at [Red Hat](https://www.redhat.com/) and [Nextcloud](https://github.com/nextcloud/). Even without them, there is a huge hidden opportunity in open-source.
 
 In my ideal world, all of science and all technologies are open. By keeping things closed, most likely it is you (being a person or a group) that matter the most. In an open environment, however, you think further: Advancing the world as a whole is much more important.
 
-Privacy is another benefit you get by using free software. It really matters, trust me. If you think it is just non-sense, go on and read [this Reddit post](https://www.reddit.com/r/linux/comments/jm16vx/why_is_securityprivacy_important_to_you/). This is one of the reasons why I'm on GNU/Linux, particularly Fedora.
+I care about privacy. It really matters, trust me. If you think it is just nonsense, go on and read [this Reddit post](https://www.reddit.com/r/linux/comments/jm16vx/why_is_securityprivacy_important_to_you/). This is one of the reasons why I'm on GNU/Linux, particularly Fedora. :)
 
 Last but not least, I'm proudly an Iranian and a Muslim.
 
@@ -28,7 +28,7 @@ Last but not least, I'm proudly an Iranian and a Muslim.
 
 Git and GNU/Linux (specifically its terminal) are the tools I cannot live without. Thanks, Linus Torvalds. 🤓
 
-Always following news in the PHP world (mostly from [this subreddit](https://reddit.com/r/php)). Whenever I want to write something new, I prefer to use PHP for that, especially if it's a console application. However, sometimes the libraries in Python are making the life easier, so I use Python for those cases.
+Always following news in the PHP world (mostly from [this subreddit](https://reddit.com/r/php)). Whenever I want to write something new, I prefer to use PHP, especially if it's a console application. However, sometimes the libraries in Python are making the life easier, so I use Python for those.
 
 The Linux distro I use is Fedora Workstation. Enjoying the bleeding-edge while having an stable system: I've never felt I need to reinstall it or switch to another distro (since more than two years ago).
 
