@@ -1,6 +1,14 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=machitgarha)](https://github.com/ryo-ma/github-profile-trophy)
 
-A developer trying to shift his focus to open-source. The title may shout at you: "I want my bucket to be empty". No, it is lying. Look at [Red Hat](https://www.redhat.com/) and [Nextcloud](https://github.com/nextcloud/). Even without them, there is a huge hidden opportunity in open-source.
+
+
+## Summary
+
+Open-source enthusiast, advocate and developer. PHP programmer and follower. Interested in low-level programming. C++ and Rust lover. Having Git and Linux vital organs. Shell addict. Active on `Git*b`. And finally... thirsty for team work. :)
+
+## More About Me...
+
+A developer wanting (maybe trying?) to shift his focus to open-source. The title may shout at you: "I want my bucket to be empty"! No, it's lying. Look at [Red Hat](https://www.redhat.com/) and [Nextcloud](https://github.com/nextcloud/). Even without them, there is a huge hidden opportunity in open-source.
 
 In my ideal world, all of science and all technologies are open. By keeping things closed, most likely it is you (being a person or a group) that matter the most. In an open environment, however, you think further: Advancing the world as a whole is much more important.
 
@@ -42,11 +50,11 @@ I love Islamic philosophy (thanks to the books of Morteza Motahhari and Allameh 
 
 ## Things I Refuse to Work With
 
--   **Windows:** I don't want to say aloud to Microsoft what is being done on my system. Yes, privacy matters. Updating is a mess there. PowerShell or even WSL2 is not comparable to Bash. Sometimes even I prefer Gnome UX against Windows's. And let's face the facts: I've addicted to my system, and there is little thing I cannot do here (if any).
+- **Windows:** I don't want to say aloud to Microsoft what is being done on my system. Yes, privacy matters. Updating is a mess there. PowerShell or even WSL2 is not comparable to Bash. Sometimes even I prefer Gnome UX against Windows's. And let's face the facts: I've addicted to my system, and there is little thing I cannot do here (if any).
 
--   **Ubuntu:** Not that unusable, but it was really unstable in my experience. I had problems with AppArmor that the system didn't even boot, for example.
+- **Ubuntu:** Not that unusable, but it was really unstable in my experience. I had problems with AppArmor that the system didn't even boot, for example.
 
--   **NVIDIA:** Not a new trend among Linux users. If you're not aware, just search the web.
+- **NVIDIA:** Not a new trend among Linux users. If you're not aware, just search the web.
 
 ## Find Me
 
