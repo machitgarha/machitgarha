@@ -15,8 +15,8 @@ Open-source enthusiast, advocate and developer. PHP programmer and follower. Int
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++" width="40" align="center"/>](#)
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/fedora.svg" alt="Fedora" width="40" align="center"/>](#)
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker-icon.svg" alt="Docker" width="40" align="center"/>](#)
-[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript" width="40" align="center"/>](#)
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="Python" width="40" align="center"/>](#)
+[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript" width="40" align="center"/>](#)
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML5" width="40" align="center"/>](#)
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS3" width="40" align="center"/>](#)
 
