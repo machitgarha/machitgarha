@@ -28,15 +28,15 @@ I tend to use PHP a lot. It has a great ecosystem. Breaking changes are minimal,
 
 Living without Linux *for me* is like not living with one hand (well, the remaining one is, obviously, Git). Well, I have to mention I use Fedora Linux, and I love it: Stability while being up-to-date. I've been running it for nearly three years without even thinking a re-installation is needed.
 
-Last but not least, I'm proudly an Iranian and a Muslim.
+Last but not least, I'm proudly an Iranian and a Muslim. I'm interested in Islamic topics, being 
 
-## Things I Refuse to Work With
+## Q&A From Myself!
 
-- **Windows:** I don't want to say aloud to Microsoft what is being done on my system. Yes, privacy matters. Updating is a mess there. PowerShell or even WSL2 is not comparable to Bash. Sometimes even I prefer Gnome UX against Windows's. And let's face the facts: I've addicted to my system, and there is little thing I cannot do here (if any).
-
-- **Ubuntu:** Not that unusable, but it was really unstable in my experience. I had problems with AppArmor that the system didn't even boot, for example.
-
-- **NVIDIA:** Not a new trend among Linux users. If you're not aware, just search the web.
+- **What are the things I refuse to work with and why?** 
+  
+  Windows first and foremost. [Privacy matters](https://www.reddit.com/r/linux/comments/jm16vx/why_is_securityprivacy_important_to_you/).
+  
+  NVIDIA next. Please don't ask an obvious question. ;)
 
 ## Find Me
 
