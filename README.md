@@ -25,6 +25,19 @@ Open-source enthusiast, advocate and developer. PHP programmer and follower. Int
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/rust.svg" alt="Rust" width="40" align="center"/>](#)
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/symfony.svg" alt="Symfony" width="40" align="center"/>](#)
 
+### Soft Skills
+
+[![Teaching](https://img.shields.io/badge/-Teaching-blue?style=flat-square)](#)
+[![Object Oriented Programming](https://img.shields.io/badge/-Object%20Oriented%20Programming-blue?style=flat-square)](#)
+[![Unit-Testing](https://img.shields.io/badge/-Unit--Testing-blue?style=flat-square)](#)
+[![Writing Documentation](https://img.shields.io/badge/-Writing%20Documentation-blue?style=flat-square)](#)
+[![CI/CD](https://img.shields.io/badge/-CI%2FCD-blue?style=flat-square)](#)
+
+#### Eager to Learn (More)
+
+[![Team Work](https://img.shields.io/badge/-Team%20Work-blue?style=flat-square)](#)
+[![Code Reading](https://img.shields.io/badge/-CI%2FCD-blue?style=flat-square)](#)
+
 ## More About Me...
 
 A developer wanting (maybe trying?) to shift his focus to open-source. The title may shout at you: "I want my bucket to be empty"! No, it's lying. Look at [Red Hat](https://www.redhat.com/) and [Nextcloud](https://github.com/nextcloud/). Even without them, there's a huge hidden opportunity in open-source.
