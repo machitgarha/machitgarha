@@ -6,17 +6,24 @@ Open-source enthusiast, advocate and developer. PHP programmer and follower. Int
 
 ## Skills
 
+### Technology
+
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/php.svg" alt="PHP" width="40" align="center"/>](#)
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" alt="Git" width="40" align="center"/>](#)
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linux-tux.svg" alt="Linux" width="40" align="center"/>](#)
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash-icon.svg" alt="Bash" width="40" align="center"/>](#)
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++" width="40" align="center"/>](#)
+[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/fedora.svg" alt="Fedora" width="40" align="center"/>](#)
+[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript" width="40" align="center"/>](#)
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="Python" width="40" align="center"/>](#)
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML5" width="40" align="center"/>](#)
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS3" width="40" align="center"/>](#)
-[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript" width="40" align="center"/>](#)
-[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="C" width="40" align="center"/>](#)
-[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/fedora.svg" alt="Fedora" width="40" align="center"/>](#)
+[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker-icon.svg" alt="Docker" width="40" align="center"/>](#)
+
+#### Eager to Learn (More)
+
+[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/rust.svg" alt="Rust" width="40" align="center"/>](#)
+[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/symfony.svg" alt="Symfony" width="40" align="center"/>](#)
 
 ## More About Me...
 
