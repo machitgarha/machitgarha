@@ -14,15 +14,15 @@ Open-source enthusiast, advocate and developer. PHP programmer and follower. Int
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash-icon.svg" alt="Bash" width="40" align="center"/>](#)
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++" width="40" align="center"/>](#)
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/fedora.svg" alt="Fedora" width="40" align="center"/>](#)
+[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker-icon.svg" alt="Docker" width="40" align="center"/>](#)
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript" width="40" align="center"/>](#)
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="Python" width="40" align="center"/>](#)
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML5" width="40" align="center"/>](#)
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS3" width="40" align="center"/>](#)
-[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker-icon.svg" alt="Docker" width="40" align="center"/>](#)
 
 #### Eager to Learn (More)
 
-[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/rust.svg" alt="Rust" width="40" align="center"/>](#)
+[<img src="https://www.rust-lang.org/logos/rust-logo-256x256.png" alt="Rust" width="40" align="center"/>](#)
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/symfony.svg" alt="Symfony" width="40" align="center"/>](#)
 
 ### Soft Skills
@@ -36,7 +36,7 @@ Open-source enthusiast, advocate and developer. PHP programmer and follower. Int
 #### Eager to Learn (More)
 
 [![Team Work](https://img.shields.io/badge/-Team%20Work-blue?style=flat-square)](#)
-[![Code Reading](https://img.shields.io/badge/-CI%2FCD-blue?style=flat-square)](#)
+[![Code Reading](https://img.shields.io/badge/-Code%20Reading-blue?style=flat-square)](#)
 
 ## More About Me...
 
