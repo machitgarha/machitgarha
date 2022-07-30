@@ -27,16 +27,16 @@ Open-source enthusiast, advocate and developer. PHP programmer and follower. Int
 
 ### Soft Skills
 
-[![Teaching](https://img.shields.io/badge/-Teaching-blue?style=flat-square)](#)
-[![Object Oriented Programming](https://img.shields.io/badge/-Object%20Oriented%20Programming-blue?style=flat-square)](#)
-[![Unit-Testing](https://img.shields.io/badge/-Unit--Testing-blue?style=flat-square)](#)
-[![Writing Documentation](https://img.shields.io/badge/-Writing%20Documentation-blue?style=flat-square)](#)
+[![Teaching](https://img.shields.io/badge/-Teaching-purple?style=flat-square)](#)
+[![Object Oriented Programming](https://img.shields.io/badge/-Object%20Oriented%20Programming-red?style=flat-square)](#)
+[![Unit-Testing](https://img.shields.io/badge/-Unit--Testing-orange?style=flat-square)](#)
+[![Writing Documentation](https://img.shields.io/badge/-Writing%20Documentation-green?style=flat-square)](#)
 [![CI/CD](https://img.shields.io/badge/-CI%2FCD-blue?style=flat-square)](#)
 
 #### Eager to Learn (More)
 
-[![Team Work](https://img.shields.io/badge/-Team%20Work-blue?style=flat-square)](#)
-[![Code Reading](https://img.shields.io/badge/-Code%20Reading-blue?style=flat-square)](#)
+[![Team Work](https://img.shields.io/badge/-Team%20Work-black?style=flat-square)](#)
+[![Code Reading](https://img.shields.io/badge/-Code%20Reading-gray?style=flat-square)](#)
 
 ## More About Me...
 
