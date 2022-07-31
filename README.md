@@ -46,7 +46,7 @@ In my ideal world, all of science and all technologies are open. By keeping thin
 
 I tend to use PHP a lot. It has a great ecosystem. Breaking changes are minimal, not even in the language itself, but in the libraries as well. Not even that means the language is holding back, but it looks shinier with each release. Composer is fundamentally better and faster than anything else I tried. And so on... (oh, did I mention its good performance?)
 
-Living without Linux *for me* is like not living with one hand (well, the remaining one is, obviously, Git). Well, I have to mention I use Fedora Linux, and I love it: Stability while being up-to-date. I've been running it for nearly three years without even thinking a re-installation is needed.
+Living without Linux *for me* is like living with one hand (well, the remaining one is, obviously, Git). Well, I have to mention I use Fedora Linux, and I love it: Stability while being up-to-date. I've been running it for nearly three years without even thinking a re-installation is needed.
 
 Last but not least, I'm proudly an Iranian and a Muslim. I'm interested in Islamic topics, being 
 
